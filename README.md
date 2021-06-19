@@ -1,4 +1,10 @@
-# cryptoright
+# CryptoRight Blockchain Copyright System
 
+## Summary
 
-[Cryptoright](http://localhost:8000/#)
+This application is a copyright management system built on the Ethereum blockchain.
+
+### Demo App
+
+Click [Cryptoright](http://localhost:8000/#) to launch the CryptoRight application.
+
