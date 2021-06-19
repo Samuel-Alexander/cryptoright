@@ -6,5 +6,5 @@ This application is a copyright management system built on the Ethereum blockcha
 
 ### Demo App
 
-Click [Cryptoright](http://localhost:8000/#) to launch the CryptoRight application.
+Click [Cryptoright](https://github.com/Samuel-Alexander/cryptoright/blob/master/frontend/index.html) to launch the CryptoRight application.
 
