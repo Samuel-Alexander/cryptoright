@@ -1,4 +1,4 @@
 # cryptoright
 
 
-`[Cryptoright](frontend/index.html)` 
+[Cryptoright](frontend/index.html)
